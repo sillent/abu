@@ -1,3 +1,6 @@
+pub mod methods;
+pub mod response;
+pub struct Zabbx {}
 #[cfg(test)]
 mod tests {
     #[test]
